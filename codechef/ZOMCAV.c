@@ -1,3 +1,4 @@
+// All test cases passed
 // https://www.codechef.com/AUG19B/problems/ZOMCAV
 // Zombies and the Caves
 

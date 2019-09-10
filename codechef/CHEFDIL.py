@@ -1,3 +1,4 @@
+# All test cases passed
 # https://www.codechef.com/AUG19B/problems/CHEFDIL
 # Dilemma
 
@@ -43,7 +44,7 @@ try:
                 break
         if flag == 1:
             print("WIN")
-        print(S)
+        # print(S)
 
 except EOFError as e:
     print(end="")
