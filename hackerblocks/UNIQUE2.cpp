@@ -1,5 +1,7 @@
+// All test cases passed
 // https://hack.codingblocks.com/app/practice/2/p/463
 // Unique Numbers II
+
 
 #include<iostream>
 using namespace std;
